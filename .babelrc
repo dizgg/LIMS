@@ -1,0 +1,4 @@
+{
+  "presets": ["env", "react", "airbnb", "stage-1"],
+  "plugins": ["transform-class-properties"]
+}
