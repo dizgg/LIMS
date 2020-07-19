@@ -3,4 +3,4 @@ Laboratory Information Management System
 
 ## The App
 Dashboard:
-![Preview](https://github.com/dizgg/LIMS.git/dashboard.png)
+![dashboard_preview](https://github.com/dizgg/LIMS/blob/master/dashboard.PNG)
